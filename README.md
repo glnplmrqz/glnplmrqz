@@ -1,5 +1,12 @@
-<div align="center">
-  <img src="banner-icon.webp" alt="Animated typing banner" width="500"/>
+<div align="center" style="position:relative;">
+  <img src="banner-icon.webp" width="800" style="border-radius:10px;">
+  
+  <!-- Typing SVG (Positioned Overlay) -->
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=38F776&width=800&height=100&lines=Hello%2C+I'm+Gabriel%F0%9F%91%8B;Full-Stack+Python+Developer%F0%9F%8D%8D;Open-Source+Enthusiast%F0%9F%92%99;Problem+Solver+%E2%9A%99%EF%B8%8F" 
+         alt="Typing Banner" 
+         style="background:transparent;">
+  </div>
 </div>
 
 # 💫 About Me:
