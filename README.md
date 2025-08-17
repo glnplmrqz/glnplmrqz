@@ -1,8 +1,9 @@
 # 💫 About Me:
-I am Glen Paul Marquez, an Education student and aspiring Software Engineer with a strong passion for technology, programming, and problem-solving. My academic background in education has strengthened my communication, organization, and analytical skills, while my interest in technology motivates me to continually enhance my capabilities as a developer.
-Currently, I am focusing on self-study to improve my programming skills, particularly in Java, C++, Python, and Web Development (HTML, CSS, JavaScript). I also have experience working with WordPress and collaborating on projects that combine both technical and creative aspects of development.
-My long-term goal is to become a versatile software engineer who can design and develop solutions that advance technology while making learning more accessible. I am eager to apply my skills, contribute to impactful projects, and gain further professional experience in the field of software development.
+I am **Glen Paul Marquez**, an **Education student and aspiring Software Engineer** with a strong passion for technology, programming, and problem-solving. My academic background in education has strengthened my communication, organization, and analytical skills, while my interest in technology motivates me to continually enhance my capabilities as a developer.  
 
+Currently, I am focusing on **self-study** to further improve my programming skills, particularly in **Java, C++, Python, and Web Development (HTML, CSS, JavaScript)**. I also have experience working with **WordPress** and collaborating on projects that combine both technical and creative aspects of development.  
+
+My long-term goal is to become a **versatile software engineer** who can design and develop solutions that advance technology while making learning more accessible. I am eager to apply my skills, contribute to impactful projects, and gain further professional experience in the field of software development.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glnplmrqz) 
