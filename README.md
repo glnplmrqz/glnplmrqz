@@ -1,20 +1,5 @@
-<div align="center" style="position:relative; background:#0d1117; height:180px; display:flex; flex-direction:column; justify-content:center; align-items:center; border-radius:8px; padding:20px; font-family:'Fira Code',monospace;">
-  <!-- Line 1: "Hello, I'm Paul" -->
-  <div style="font-size:26px; margin-bottom:10px;">
-    <span style="color:white">Hello, I'm </span>
-    <span style="color:#FFFF00">Paul</span>
-  </div>
-  
-  <!-- Line 2: "Aspiring Full-Stack Developer" -->
-  <div style="font-size:26px; margin-bottom:10px;">
-    <span style="color:white">Aspiring </span>
-    <span style="color:#FFFF00">Full-Stack Developer</span>
-  </div>
-  
-  <!-- Line 3: Tech Stack -->
-  <div style="font-size:26px; color:#FFFF00">
-    C | C++ | Java | Python | Web Development
-  </div>
+<div align="center" style="position:relative; background:#0d1117; height:150px; display:flex; justify-content:center; align-items:center; border-radius:8px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&width=700&height=100&lines=Hello%2C+I'm+&color=FFFFFFPaul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" alt="Banner" style="padding:20px;">
 </div>
 
 # 💫 About Me:
