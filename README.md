@@ -1,5 +1,7 @@
 <div align="center" style="position:relative; background:#0d1117; height:150px; display:flex; justify-content:center; align-items:center; border-radius:8px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFF00&center=true&width=700&height=100&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" alt="Banner" style="padding:20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&width=700&height=100&lines=[Hello%2C+I'm]{%20FFFFFF}[Paul]{%20FFFF00};[Aspiring]{%20FFFFFF}[Full-Stack+Developer]{%20FFFF00};[C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development]{%20FFFF00}" 
+       alt="Banner" 
+       style="padding:20px;">
 </div>
 
 # 💫 About Me:
