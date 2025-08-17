@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-icon" alt="Animated typing banner">
+  <img src="banner-icon.webp" alt="Animated typing banner">
 </div>
 
 # 💫 About Me:
