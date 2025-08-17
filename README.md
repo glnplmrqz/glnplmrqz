@@ -1,5 +1,5 @@
 <div align="center" style="display:flex; justify-content:center; align-items:center; height:120px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&center=true&width=800&height=120&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development+(HTML, CSS, JavaScript)" alt="Paul's Developer Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&center=true&width=800&height=120&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development+(HTML%2C+CSS%2C+JavaScript)" alt="Paul's Developer Banner">
 </div>
 
 # 💫 About Me:
