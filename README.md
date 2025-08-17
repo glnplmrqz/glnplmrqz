@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=38F776&width=800&height=100&lines=Hello%2C+I'm+Gabriel%F0%9F%91%8B;Full-Stack+Python+Developer%F0%9F%8D%8D;Open-Source+Enthusiast%F0%9F%92%99;Problem+Solver+%E2%9A%99%EF%B8%8F" alt="Animated typing banner">
+</div>
+
 # 💫 About Me:
 I am **Glen Paul Marquez**, an **Education student and aspiring Software Engineer** with a strong passion for technology, programming, and problem-solving. My academic background in education has strengthened my communication, organization, and analytical skills, while my interest in technology motivates me to continually enhance my capabilities as a developer.  
 
