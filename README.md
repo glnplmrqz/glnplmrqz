@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&width=800&height=120&lines=Hello+World%2C+I'm+Paul+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;C+%7C"++"C++%7C+Python%7C+Java+%E2%9A%99%EF%B8%8F;Building+The+Future+One+Commit+at+a+Time+%F0%9F%93%A6" alt="Paul's Developer Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&width=800&height=120&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development;Building+The+Future+One+Commit+at+a+Time" alt="Paul's Developer Banner">
 </div>
-
 # 💫 About Me:
 I am **Glen Paul Marquez**, an **Education student and aspiring Software Engineer** with a strong passion for technology, programming, and problem-solving. My academic background in education has strengthened my communication, organization, and analytical skills, while my interest in technology motivates me to continually enhance my capabilities as a developer.  
 
