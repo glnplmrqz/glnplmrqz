@@ -1,13 +1,5 @@
-<div align="center" style="position:relative; min-height:200px; border-radius:10px; overflow:hidden; margin:1rem 0;">
-  <!-- Background with Gradient Overlay -->
-  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('banner-icon.webp'); background-size:cover; background-position:center;"></div>
-  
-  <!-- Centered Typing Animation -->
-  <div style="position:relative; z-index:2; display:grid; place-items:center; height:200px; padding:0 1rem;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFF00&center=true&width=100%&height=100&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" 
-         alt="Paul's Developer Banner"
-         style="max-width:800px;">
-  </div>
+<div align="center" style="position:relative; background:#0d1117; height:150px; display:flex; justify-content:center; align-items:center; border-radius:8px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFF00&center=true&width=700&height=100&lines=Hello%2C+I'm+Paul;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" alt="Banner" style="padding:20px;">
 </div>
 
 # 💫 About Me:
