@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&width=800&height=120&lines=Hello+World%2C+I'm+Paul+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;C+%7C+C++%7C+Python%7C+Java+%E2%9A%99%EF%B8%8F;Building+The+Future+One+Commit+at+a+Time+%F0%9F%93%A6" alt="Paul's Developer Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFF00&width=800&height=120&lines=Hello+World%2C+I'm+Paul+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;C+%7C"++"C++%7C+Python%7C+Java+%E2%9A%99%EF%B8%8F;Building+The+Future+One+Commit+at+a+Time+%F0%9F%93%A6" alt="Paul's Developer Banner">
 </div>
 
 # 💫 About Me:
