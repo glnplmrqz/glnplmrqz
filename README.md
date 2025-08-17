@@ -4,7 +4,7 @@
   
   <!-- Typing Animation Overlay -->
   <div style="position:absolute; top:50%; left:0; width:100%; text-align:center; transform:translateY(-50%)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&background=00000000&center=true&width=800&height=100&lines=Hello%2C+I'm+Gabriel%F0%9F%91%8B;Full-Stack+Developer%F0%9F%92%BB;Open-Source+Contributor%E2%AD%90" alt="Typing Text">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&background=00000000&center=true&width=800&height=100&lines=Hello%2C+I'm+Paul%F0%9F%91%8B;Aspiring Full Stack+Developer%F0%9F%92%BB" alt="Typing Text">
   </div>
 </div>
 
