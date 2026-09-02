@@ -1,10 +1,12 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/793abf48-0f46-4542-ba6a-f7178f1bbf91" />
+
 ## About Me
 Hi, I'm Glen Paul Marquez and currently a 4th year student at Colegio de Montalban. I am pursuing a Bachelor of Technology and Livelihood Education Major in Information and Communications Technology. My tech stack includes Java, C, C++, C#, Python, and core web technologies — HTML, CSS, and JavaScript. I enjoy turning ideas into functional, clean, and responsive web solutions. Now open to junior developer roles and freelance opportunities.
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glnplmrqz) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A0D0.svg?logo=telegram&logoColor=white)](https://t.me/glnplmrqz) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:glenpaulmarquez01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glnplmrqz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/glnplmrqz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glenpaulmarquez01@gmail.com)
 
 # Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
